@@ -18,6 +18,7 @@ Suhermanto, M. (2025). Awesome Engineering Thermodynamics. GitHub. https://githu
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/suhermantom/awesome_Engineering_Thermodynamics}}
 }
+```
 ## Contents
 
 - [Python Libraries for Thermodynamics](#python-libraries-for-thermodynamics)
