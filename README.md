@@ -1,13 +1,23 @@
-# Awesome Thermodynamics for Engineering
+# Awesome Thermodynamics for Engineering 
 This is my notes for all available Engineering Thermodynamics resources I have found. I'll keep updating it.
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Carnot_heat_engine_2.svg" alt="Thermodynamics Cycle" width="300">
-  <br>
-  <p><b>A curated list of awesome resources for Thermodynamics in Engineering</b></p>
-  <p>Libraries, tools, frameworks, software, and resources for teaching and learning thermodynamics</p>
-</div>
+## How to Cite
 
+If you use resources from this repository in your research, teaching, or other activities, please cite it as follows:
+
+### APA Style
+Suhermanto, M. (2025). Awesome Engineering Thermodynamics. GitHub. https://github.com/suhermantom/awesome_Engineering_Thermodynamics
+
+### BibTeX
+```bibtex
+@misc{suhermanto2025awesome,
+  author = {Suhermanto, Muhammad},
+  title = {Awesome Engineering Thermodynamics},
+  year = {2025},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/suhermantom/awesome_Engineering_Thermodynamics}}
+}
 ## Contents
 
 - [Python Libraries for Thermodynamics](#python-libraries-for-thermodynamics)
